@@ -16,11 +16,6 @@ This tool is designed strictly for **educational and awareness purposes only** t
 **It runs locally on your machine and does NOT send any data externally.**  
 **Do NOT use this for malicious intent.**
 
-## Watch Live Demo & Tutorials on YouTube
-
-Subscribe and watch the live demo videos here:  
-[EsraaCodes YouTube Channel](https://www.youtube.com/@EsraaCodes-e7j/videos)
-
 ## Requirements
 
 - Python 3.x
